@@ -2,7 +2,7 @@
 	minishell
 </h1>
 <p align="center">
-<b><i> :information_source: This project is part of my 42 programming academy cursus.</i></b><br>
+<b><i> :information_source: This project is part of my C projects.</i></b><br>
 <p>
 <p align="center">
 	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/EarlyObject/42-minishell?color=blueviolet" />
